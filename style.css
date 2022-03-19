@@ -1,0 +1,9 @@
+body{
+    font-family: 'Comforter', cursive;
+    background-image: linear-gradient(180deg, pink, aqua);
+    color:beige;
+}
+
+#button_identify{
+    background-color: deeppink;
+}
